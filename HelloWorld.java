@@ -1,5 +1,5 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, Dawood Welcome To The World Of MulltiCloudWith Devops with AI........ !");
+        System.out.println("Hello, Dawood Welcome To The World Of Devops !");
     }
 }
